@@ -125,6 +125,70 @@ Sales-Analysis/
 
 The project uses the Sample Superstore dataset containing information about orders, customers, products, sales, profit, discounts, shipping, categories, and geographic regions.
 
+## Key Performance Indicators
+
+| KPI | Value |
+|---|---:|
+| Total Sales | $2,297,200.86 |
+| Total Profit | $286,397.02 |
+| Total Orders | 5,009 |
+| Total Customers | 793 |
+| Total Products | 1,862 |
+
+## Key Insights
+
+- **West** was the highest-performing region by sales, generating **$725,457.82**.
+- **Technology** was the top category by sales, generating **$836,154.03**.
+- **Technology** also generated the highest profit at **$145,454.95**.
+- Customer, product, regional, category, shipping, and discount patterns were analyzed to identify business performance trends.
+
+  ## Project Structure
+
+text
+Sales-Analysis/
+├── charts/       # Python-generated visualizations
+├── dataset/      # Source dataset
+├── excel/        # Excel dashboard
+├── powerbi/      # Power BI dashboard
+├── python/       # Python analysis scripts
+├── reports/      # Analysis reports and summary files
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+## Dashboards
+
+### Excel Dashboard
+The Excel dashboard provides KPI summaries and interactive analysis of sales, profit, region, category, and monthly performance.
+
+### Power BI Dashboard
+The Power BI dashboard provides an interactive view of key sales and profit KPIs, category performance, regional performance, and year-based filtering.
+
+Dashboard files are available in the `excel/` and `powerbi/` folders.
+
+
+## Analysis Workflow
+
+1. Data loading and validation
+2. Data cleaning and preprocessing
+3. Exploratory data analysis
+4. KPI calculation
+5. Sales and profit analysis
+6. Customer and product analysis
+7. Regional and category analysis
+8. Shipping and discount analysis
+9. Data visualization
+10. Dashboard development using Excel and Power BI
+
+
+## Tools & Technologies
+
+- **Python:** Pandas, Matplotlib
+- **Excel:** PivotTables, PivotCharts, formulas
+- **Power BI:** DAX, interactive dashboards
+- **Git & GitHub:** Version control and project sharing
+
 ## Author
 
 Deena
