@@ -162,10 +162,20 @@ Sales-Analysis/
 ### Excel Dashboard
 The Excel dashboard provides KPI summaries and interactive analysis of sales, profit, region, category, and monthly performance.
 
+### Excel Dashboard
+The Excel dashboard provides KPI summaries and interactive analysis of sales, profit, region, category, and monthly performance.
+
+![Excel Dashboard](Excel_Dashboard.png)
+
 ### Power BI Dashboard
 The Power BI dashboard provides an interactive view of key sales and profit KPIs, category performance, regional performance, and year-based filtering.
 
 Dashboard files are available in the `excel/` and `powerbi/` folders.
+
+### Power BI Dashboard
+The Power BI dashboard provides an interactive view of key sales and profit KPIs, category performance, regional performance, and year-based filtering.
+
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 
 ## Analysis Workflow
